@@ -51,7 +51,7 @@ header{
 }
 
 .dos{
-    background-color: #F2F2F2;
+    background-color: #ffffff;
     height: 700px;
     display: flex;
     flex-direction: column;
@@ -65,8 +65,8 @@ header{
     width: 50%;
 }
 .tech-list{
-    display: flex;
-    justify-content: space-between;
+    display:flex;
+    justify-content: center;
     padding-top: 10px;
 }
 
